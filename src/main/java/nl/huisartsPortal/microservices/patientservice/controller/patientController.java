@@ -13,7 +13,7 @@ public class patientController {
 
          @GetMapping("/")
           public String getHello() {
-        return "hello";
+        return "HI is gelukt";
     }
 
         @GetMapping("/login")
