@@ -6,7 +6,7 @@
 	<groupId>nl.huisartsPortal.microservices</groupId>
 	<artifactId>patient-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>patient-service</name>
 	<description>Demo project for Spring Boot</description>
